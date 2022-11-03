@@ -10,10 +10,10 @@
     - 648 satellites
   - [Telesat](http://www.telesat.com/) - Ottawa, Canada
     - 188 satellites
-  - China SatNet GuoWang
-    - 1,2992 planned satellites
+  - China SatNet GuoWang - Xiong'an New Area, China
+    - 12,992 planned satellites
 
-## Geo Providers
+## Geostationary Orbit (Geo) Providers
 
   - ViaSat
   - HughesNet
