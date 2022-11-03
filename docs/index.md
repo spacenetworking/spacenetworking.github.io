@@ -2,15 +2,16 @@
 
 ## Low Earth Orbit (LEO) Satellite Providers
 
-  - [SpaceX Starlink](https://www.starlink.com/) - Hawthorne, CA
-    - Up to 42,000 LEO satellites
-  - [Amazon Project Kuiper](https://www.aboutamazon.com/news/tag/project-kuiper)
+  - [SpaceX Starlink](https://www.starlink.com/) - Hawthorne, California
+    - 42,000 planned satellites
+  - [Amazon Project Kuiper](https://www.aboutamazon.com/news/tag/project-kuiper) - Redmond, Washington
+    - 3,236 planned satellites
   - [OneWeb](https://oneweb.net/) - London, England
-    - 648 low Earth orbit (LEO) satellites
+    - 648 satellites
   - [Telesat](http://www.telesat.com/) - Ottawa, Canada
-    - 188 LEO satellites
+    - 188 satellites
   - China SatNet GuoWang
-    - 12992 planned satellites
+    - 1,2992 planned satellites
 
 ## Geo Providers
 
@@ -26,5 +27,5 @@
 
 # See Also
 
-  - https://www.newspace.im/
-  - https://spacenews.com/
+  - [https://www.newspace.im/](https://www.newspace.im/)
+  - [https://spacenews.com/](https://spacenews.com/)
