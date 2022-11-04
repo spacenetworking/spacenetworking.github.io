@@ -18,6 +18,11 @@
   - ViaSat
   - HughesNet
 
+## Sun-synchronous Polar Orbit
+
+  - [Swarm Technologies](http://www.swarm.space/)
+   - 120 SpaceBee Satellites
+
 # Interesting Facts
 
   - Radio travels faster in space than in a fiber.
