@@ -4,6 +4,7 @@
 
   - [SpaceX Starlink](https://www.starlink.com/) - Hawthorne, California
     - 42,000 planned satellites
+    - Supplemental Coverage from Space (SCS) - To provide satellite-hosted coverage for terrestrial mobile providers. (aka direct-to-cellular communications capability or "cell tower in space") [PCS G-block](https://docs.fcc.gov/public/attachments/DA-23-338A1.pdf)
   - [Amazon Project Kuiper](https://www.aboutamazon.com/news/tag/project-kuiper) - Redmond, Washington
     - 3,236 planned satellites
   - [OneWeb](https://oneweb.net/) - London, England
