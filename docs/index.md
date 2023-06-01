@@ -4,7 +4,7 @@
 
   - [SpaceX Starlink](https://www.starlink.com/) - Hawthorne, California
     - 42,000 planned satellites
-    - Supplemental Coverage from Space (SCS) - To provide satellite-hosted coverage for terrestrial mobile providers. (aka direct-to-cellular communications capability or "cell tower in space") [PCS G-block](https://docs.fcc.gov/public/attachments/DA-23-338A1.pdf)
+    - Supplemental Coverage from Space (SCS) - To provide satellite-hosted coverage for terrestrial mobile providers. (aka direct-to-handset satellite service or "cell tower in space") [PCS G-block](https://docs.fcc.gov/public/attachments/DA-23-338A1.pdf)
   - [Amazon Project Kuiper](https://www.aboutamazon.com/news/tag/project-kuiper) - Redmond, Washington
     - 3,236 planned satellites
   - [OneWeb](https://oneweb.net/) - London, England
@@ -14,7 +14,12 @@
   - China SatNet GuoWang - Xiong'an New Area, China
     - 12,992 planned satellites
 
-## Geostationary Orbit (Geo) Providers
+## Medium Earth Orbit (MEO) Satellite Providers
+
+  - O3b (originally "other three billion") [WikiPedia](https://en.wikipedia.org/wiki/O3b)
+    - About 20 satellites at an alititude of 8063 km
+
+## Geostationary Orbit (Geo) Satellite Providers
 
   - ViaSat
   - HughesNet
